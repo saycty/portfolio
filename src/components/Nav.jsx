@@ -5,6 +5,7 @@ import { Link } from "react-scroll";
 import { list } from "postcss";
 
 const Nav = () => {
+  console.log("Update");
   return (
     <nav>
       <ul
